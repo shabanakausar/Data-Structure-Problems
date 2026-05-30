@@ -297,5 +297,3 @@ The worst-case bound sounds large, but the `is_valid` check prunes the vast majo
 | File | Language | Run with |
 |------|----------|----------|
 | `sudoku_solver.py` | Python 3 | `python sudoku_solver.py` |
-| `sudoku_solver.js` | JavaScript (Node.js) | `node sudoku_solver.js` |
-| `sudoku_solver.cpp` | C++ | `g++ -o solver sudoku_solver.cpp && ./solver` |
